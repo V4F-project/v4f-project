@@ -6,7 +6,7 @@ The archive contains a mixed-integer linear programming (MILP) model for a syste
 
 See the PDF documentation for in-depth description of the model.
 
-For additional information about the project, see  https://www.lut.fi/en/projects/value-flexibility-v4f
+For additional information and contact details, see  https://www.lut.fi/en/projects/value-flexibility-v4f
 
 ## Requirements
 
